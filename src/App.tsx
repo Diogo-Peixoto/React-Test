@@ -1,5 +1,7 @@
+import { Container } from "./styles/styled";
+
 function App() {
-  return <></>;
+  return <Container></Container>;
 }
 
 export default App;
